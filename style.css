@@ -47,3 +47,6 @@ button{
 input{
     height: 20px;
 }
+input[type=number] {
+    -moz-appearance: textfield;
+}
